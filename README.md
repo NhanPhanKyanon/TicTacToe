@@ -9,7 +9,7 @@ Cần thiết lập cho game mini này là nodepad++ đây là công cụ cơ b�
 - Dùng “Git bash here” để tải xuống file source trên repos, người cài đặt nên sử dụng Git để lấy dữ liệu. Tuy nhiên nếu không cài đặt git về máy bạn có cũng có thể tải chúng theo cách nhấn “Clone or download” và chờ tải.
 - Nếu sử dụng câu lệnh git người dùng bắt buộc tạo một forlder với tên tùy đặt.
 - Thực hiện lệnh  |  $ git clone https://github.com/NhanPhanKyanon/TicTacToe.git |.
-- Sau khu clone thành công dữ liệu của thư mục game sẽ nằm hoàn toàn trong thư mục này.
+- Sau khi clone thành công dữ liệu của thư mục game sẽ nằm hoàn toàn trong thư mục này.
 - Người dùng nhấn vào README để đọc hướng dẫn sử dụng.
 - Để chơi game người dùng nhấn vào "tic-tac-toe.html" để chơi game.
 - Muốn thực hiện được code như game trên vào file word " Hướng dẫn cài đặt Tic Tac Toe". 
